@@ -1,0 +1,35 @@
+/* 
+Theme Name: My Theme
+Version: 1.0.0
+Author: Brian Harris jr
+*/
+
+body {
+  color:#212529;
+}
+
+.main-jumbotron {
+  background-image: url('images/webdesign.jpg');
+  height: 700px;
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.top-name{
+  font-size: 10rem;
+  padding-top: 100px;
+}
+
+.top-description {
+  font-size: 1.5rem;
+  padding-top: 20px;
+  padding-bottom: 7px;
+}
+
+.nav-link {
+  color: orange;
+  font-size: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
